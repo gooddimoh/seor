@@ -41,7 +41,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost/seor.ua/october_cms/',
+    'url' => 'http://loc.seor.com/',
 
     /*
     |--------------------------------------------------------------------------
@@ -107,7 +107,7 @@ return [
     |
     */
 
-    'key' => 'kt0RyG1DhH0bBmhR4CWgcB62xMZewE0O',
+    'key' => 'ptB5FqaK8HxNMOmH8XbumFLzabwKmQLQ',
 
     'cipher' => 'AES-256-CBC',
 
